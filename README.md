@@ -1,4 +1,4 @@
-# hc_4_copy_copy
+# hc_4_copy
 
 A new Flutter project.
 # hc_4
